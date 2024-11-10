@@ -1,0 +1,210 @@
+Result for query  1
+Culture/0000.txt
+Culture/3602.txt
+Culture/2800.txt
+Tech/6290.txt
+Culture/4665.txt
+Result for query  2
+Culture/3875.txt
+Culture/4829.txt
+Culture/5310.txt
+Culture/1803.txt
+Culture/2534.txt
+Result for query  3
+Culture/0075.txt
+Tech/2629.txt
+Culture/1595.txt
+Culture/3952.txt
+Tech/3783.txt
+Result for query  4
+Culture/1060.txt
+Culture/5577.txt
+Culture/5554.txt
+Tech/1500.txt
+Culture/0715.txt
+Result for query  5
+Culture/5712.txt
+Culture/1280.txt
+Culture/5947.txt
+Religion/5269.txt
+Culture/4894.txt
+Result for query  6
+Finance/0850.txt
+Finance/4516.txt
+Finance/2550.txt
+Finance/4161.txt
+Politics/2770.txt
+Result for query  7
+Finance/1148.txt
+Politics/4220.txt
+Politics/3290.txt
+Politics/0825.txt
+Politics/1344.txt
+Result for query  8
+Finance/2964.txt
+Finance/2188.txt
+Finance/2153.txt
+Finance/2092.txt
+Finance/2085.txt
+Result for query  9
+Finance/1618.txt
+Finance/4584.txt
+Finance/0101.txt
+Finance/2871.txt
+Finance/0380.txt
+Result for query  10
+Finance/6451.txt
+Finance/5844.txt
+Finance/1276.txt
+Finance/3259.txt
+Finance/3400.txt
+Result for query  11
+Medical/0092.txt
+Medical/3256.txt
+Medical/3520.txt
+Medical/0363.txt
+Tech/2777.txt
+Result for query  12
+Medical/1720.txt
+Medical/4828.txt
+Medical/5798.txt
+Medical/0301.txt
+Medical/1450.txt
+Result for query  13
+Medical/2267.txt
+Culture/6488.txt
+Medical/2830.txt
+Sports/5861.txt
+Finance/0234.txt
+Result for query  14
+Medical/5802.txt
+Medical/3441.txt
+Medical/1601.txt
+Medical/2908.txt
+Medical/4150.txt
+Result for query  15
+Medical/0967.txt
+Medical/0849.txt
+Medical/5868.txt
+Medical/3048.txt
+Medical/2569.txt
+Result for query  16
+Politics/4068.txt
+Politics/2984.txt
+Politics/5863.txt
+Politics/1686.txt
+Politics/4908.txt
+Result for query  17
+Politics/1944.txt
+Politics/4285.txt
+Politics/3954.txt
+Politics/0508.txt
+Politics/5814.txt
+Result for query  18
+Politics/2906.txt
+Politics/3205.txt
+Politics/4313.txt
+Politics/6466.txt
+Tech/4286.txt
+Result for query  19
+Politics/5912.txt
+Politics/2349.txt
+Politics/1600.txt
+Politics/5147.txt
+Politics/5583.txt
+Result for query  20
+Politics/5523.txt
+Politics/3477.txt
+Politics/2464.txt
+Politics/5782.txt
+Politics/3805.txt
+Result for query  21
+Religion/6371.txt
+Culture/5352.txt
+Religion/0322.txt
+Culture/3218.txt
+Culture/6162.txt
+Result for query  22
+Religion/4819.txt
+Religion/4225.txt
+Religion/5245.txt
+Religion/1552.txt
+Religion/6096.txt
+Result for query  23
+Religion/3365.txt
+Culture/2284.txt
+Medical/0123.txt
+Tech/4637.txt
+Medical/1713.txt
+Result for query  24
+Religion/3614.txt
+Medical/2635.txt
+Medical/5629.txt
+Medical/2970.txt
+Medical/2266.txt
+Result for query  25
+Religion/5743.txt
+Religion/1426.txt
+Religion/4916.txt
+Religion/0310.txt
+Religion/0350.txt
+Result for query  26
+Sports/1180.txt
+Sports/1008.txt
+Sports/4626.txt
+Sports/6050.txt
+Sports/4765.txt
+Result for query  27
+Sports/1394.txt
+Sports/0101.txt
+Sports/1283.txt
+Sports/0150.txt
+Sports/3443.txt
+Result for query  28
+Sports/2439.txt
+Sports/2232.txt
+Sports/0894.txt
+Sports/3195.txt
+Sports/3548.txt
+Result for query  29
+Sports/1557.txt
+Sports/3407.txt
+Sports/0801.txt
+Sports/1047.txt
+Sports/5977.txt
+Result for query  30
+Sports/4708.txt
+Sports/5489.txt
+Sports/1596.txt
+Sports/0469.txt
+Sports/5978.txt
+Result for query  31
+Tech/1650.txt
+Tech/0036.txt
+Tech/3835.txt
+Tech/2766.txt
+Tech/4393.txt
+Result for query  32
+Tech/0682.txt
+Tech/2331.txt
+Tech/2864.txt
+Tech/0853.txt
+Tech/1152.txt
+Result for query  33
+Tech/4796.txt
+Tech/2098.txt
+Tech/3929.txt
+Tech/5782.txt
+Tech/3377.txt
+Result for query  34
+Tech/0916.txt
+Tech/0011.txt
+Tech/4444.txt
+Tech/2889.txt
+Tech/2427.txt
+Result for query  35
+Tech/0368.txt
+Tech/4702.txt
+Tech/1294.txt
+Tech/2443.txt
+Tech/5284.txt
